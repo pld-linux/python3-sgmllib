@@ -4,7 +4,7 @@
 Summary:	Py3k port of sgmllib
 Name:		python3-%{module}
 Version:	1.0.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/s/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
